@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ertriage.dir/main.cpp.o CMakeFiles/ertriage.dir/patient.cpp.o -o ertriage 

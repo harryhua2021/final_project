@@ -1,0 +1,3 @@
+/home/jovyan/final_project/build/CMakeFiles/ertriage.dir
+/home/jovyan/final_project/build/CMakeFiles/edit_cache.dir
+/home/jovyan/final_project/build/CMakeFiles/rebuild_cache.dir
